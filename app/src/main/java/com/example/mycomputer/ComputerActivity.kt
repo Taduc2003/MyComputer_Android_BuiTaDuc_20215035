@@ -11,7 +11,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 
-class MainActivity : AppCompatActivity(), View.OnClickListener {
+class ComputerActivity : AppCompatActivity(), View.OnClickListener {
 
     lateinit var textResult: TextView
 
